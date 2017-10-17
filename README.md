@@ -10,3 +10,5 @@ Se crea una copia y después se hace una fusión...
 La nueva rama se fusiona con Master... o algo así xD
 
 Ya estoy aprendiendo más :3
+
+no se guardan los cambios
