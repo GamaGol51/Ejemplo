@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//porque va esto aqui???
 
 class Nodo{
     private:
